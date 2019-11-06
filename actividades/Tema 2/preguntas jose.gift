@@ -1,0 +1,64 @@
+ // pregunta: 1 nombre: ¿Qué significa HTML?
+::¿Qué significa HTML?::¿Que significa HTML? Marca la opción correcta. {
+=Lenguaje de marcado de hipertexto
+~Lenguaje de marcaje hipertextual
+#error, significa Lenguaje de marcado de hipertexto
+~Lenguaje de marcas e hipertexto
+#error, significa Lenguaje de marcado de hipertexto
+~Lengua de marcado de texto plano
+#error, significa Lenguaje de marcado de hipertexto
+~Legua de marcas y ultratexto
+#error, significa Lenguaje de marcado de hipertexto
+}
+
+ // pregunta: 2 nombre: carácterísticas
+::carácterísticas::¿Cuales de estas carácterísticas son de los lenguajes de marcas? {
+=Separan el contenido de su presentación
+~El contenido y su presentación van ligado al dispositivo
+#Esto no es así ya que el contenido va separado de la presentación
+~Se codifican mediante archivos de texto con formato
+#Son archivos de texto plano
+~Dificultan la interoperabilidad
+#En realidad la facilitan
+~Emplean instrucciones
+#Emplean marcas o etiquetas
+}
+
+ // pregunta: 3 nombre: Cual es?
+::Cual es?::¿Cual de estos no es un lenguaje de marcas? {
+=Javascript
+~HTML
+#Si es un leguaje de marcas
+~CSS
+#Si es un leguaje de marcas
+~Latex
+#Si es un leguaje de marcas
+~XML
+#Si es un leguaje de marcas
+}
+
+ // pregunta: 4 nombre: Herramientas
+::Herramientas::¿Cual no es una herramienta para trabajar con lenguajes de marcas? {
+=Compilador
+~Validador
+#Un validador nos sirve para comprobar que lo que hemos escrito no está mal planteado
+~Navegador Web
+#Sin navegador web no podemos probar nuestro código en un entorno real
+~Editor de textos
+#Sin el editor de texto no podemos empezar a escribir código
+~Analizador sintáctico
+#Aunque no es tan importante es una buena herramienta para analizar si la gramática esta mal escrita
+}
+
+ // pregunta: 5 nombre: Texto plano
+::Texto plano::¿Que significa que el lenguaje de marcas está escrito con texto plano? {
+=Que el texto está formado únicamente por carácteres ordinarios y carece de formato
+~Que el texto que escribimos no tiene ninguna imagen o gráficos
+#El texto plano solo son carácteres ordinarios nada de imágenes o gráficos
+~Que el texto solo se puede editar en procesadores de textos
+#En el procesador de textos solo se maneja texto con formato
+~Que el texto está escrito en pdf
+#Que el documento esté en pdf no tiene nada que ver con las marcas
+~Que el texto posee formato
+#Al contrario el texo con formato no sirve para trabajar con marcas
+}
