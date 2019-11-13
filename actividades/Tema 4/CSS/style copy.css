@@ -16,3 +16,15 @@ p[name="p4"]{
 p[name="p5"]{
     background: orange;
 }
+p{
+    font-size: 15px;
+}
+p.hola:hover{
+    font-size: 30px;
+}
+span p:nth-child(odd){
+    background:grey;
+}
+span p:nth-child(even){
+    background: red;
+}
