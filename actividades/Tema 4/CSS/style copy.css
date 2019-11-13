@@ -27,8 +27,8 @@ body{
 }
 p.hola{
     background-color: red;
-    margin: 80px;
-    padding: 20px;
+    margin: 50vw 50vh;
+    padding: 50vw 50vh;
     border: solid black 10px;
 }
 span p:nth-child(odd){
