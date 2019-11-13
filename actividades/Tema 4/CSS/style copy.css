@@ -22,6 +22,15 @@ p{
 p.hola:hover{
     font-size: 30px;
 }
+body{
+    background-color: salmon;
+}
+p.hola{
+    background-color: red;
+    margin: 80px;
+    padding: 20px;
+    border: solid black 10px;
+}
 span p:nth-child(odd){
     background:grey;
 }
