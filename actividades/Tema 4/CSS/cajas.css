@@ -5,3 +5,10 @@ p.cajas{
     border: solid green 20px;
 
 }
+p.overflow{
+    background-color: #eee;
+    width: 200px;
+    height: 100px;
+    overflow: visible
+    ;
+}
