@@ -1,0 +1,37 @@
+.serif{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.sin-serif{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.monospace{
+    font-family: "Lucida Console", Courier, monospace;
+}
+.cursive{
+    font-family: cursive;
+}
+.fantasy{
+    font-family: fantasy;
+}
+.verdana{
+    font-family: Verdana, Geneva, Tahoma, cursive;
+    font-size: 1.2em;
+
+}
+h1.bloque{
+    color: red;
+}
+p.bloque{
+    color: orange;
+}
+a.bloque{
+    color: orangered;
+}
+article.bloque{
+    background-color: peachpuff;
+    border: 5px solid yellow;
+    outline: 10px solid rgb(2, 58, 75);
+    margin: 10px;
+    padding: 15px;
+    width: 300px;
+}
