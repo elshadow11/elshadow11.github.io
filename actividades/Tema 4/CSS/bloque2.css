@@ -1,0 +1,13 @@
+.expample{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 7vw;
+}
+.centrado{
+    text-align: center;
+}
+.sub{
+    text-decoration: none;
+}
+.mayus{
+    text-transform: capitalize;
+}
