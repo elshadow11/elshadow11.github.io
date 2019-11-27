@@ -1,0 +1,10 @@
+img{
+    display: block;
+    width: 20rem;
+    -webkit-filter: grayscale(1);
+    filter: invert(1);
+    transform: rotate(-150deg) translate(-300px);
+    
+
+
+}
