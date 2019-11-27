@@ -1,10 +1,26 @@
-img{
+img.greyscale{
     display: block;
     width: 20rem;
     -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+img.invert{
+    display: block;
+    width: 20rem;
+    -webkit-filter: invert(1);
     filter: invert(1);
-    transform: rotate(-150deg) translate(-300px);
-    
-
-
+}
+img.rotate{
+    display: block;
+    width: 20rem;
+    -webkit-filter: sepia(1);
+    filter: sepia(1);
+    transform: rotate(-150deg);
+}
+img.translate{
+    display: block;
+    width: 20rem;
+    -webkit-filter:brightness(1);
+    filter: brightness(1);
+    transform: translate(100px);
 }
