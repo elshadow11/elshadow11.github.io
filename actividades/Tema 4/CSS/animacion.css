@@ -1,0 +1,35 @@
+img{
+    width: 200px;
+}
+img.rotar:hover{
+    animation: rotar 1s ease 1s 3 alternate forwards;
+}
+img.escala:hover{
+    animation: escala 1s ease 1s 3 alternate forwards;
+}
+img.mover:hover{
+    animation: mover 1s ease 1s 3 alternate forwards;
+}
+img.estirar:hover{
+    animation: estirar 1s ease 1s 3 alternate forwards;
+}
+@keyframes rotar{
+    100%{
+        transform: rotate(360deg);
+    }
+}
+@keyframes escala{
+    100%{
+        transform: scale(0.6);
+    }
+}
+@keyframes mover{
+    100%{
+        transform: translate(200px);
+    }
+}
+@keyframes estirar{
+    100%{
+        transform: skew(30deg);
+    }
+}
