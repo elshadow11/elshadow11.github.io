@@ -1,0 +1,13 @@
+p{
+    background-color: yellow;
+    text-align: left;
+    width: 200px;
+    margin: 0px 0px 0px 0px;
+}
+div{
+    border: 5px solid black;
+    width: 50%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
