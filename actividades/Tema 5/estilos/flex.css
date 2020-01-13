@@ -1,0 +1,14 @@
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    border: 1px solid rgb(0, 0, 160);
+    margin: 10px;
+    padding: 10px;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+
+}

@@ -1,0 +1,13 @@
+nav ul{
+    display: flex;
+}
+li{
+    border: 1px solid rgb(0, 0, 160);
+    margin: 10px;
+    padding: 10px;
+    list-style: none;
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
