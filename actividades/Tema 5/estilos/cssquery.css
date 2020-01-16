@@ -1,0 +1,43 @@
+.formato{
+    margin: 0;
+    
+    border: 1px solid purple;
+    color: white;
+}
+#rojo{
+    background-color: red;
+}
+#amarillo{
+    background-color: yellow;
+}
+#verde{
+    background-color: green;
+}
+#purpura{
+    background-color: purple;
+}
+.gris{
+    background-color: grey;
+}
+.content{
+    flex: 0 1 320px;
+    border: 1px solid #000000;
+    background: #129a22;
+
+}
+.sidebar{
+    flex: 1;
+    background: #673ab7;
+}
+.header{
+    background: brown;
+}
+.hero{
+    background: orange;
+}
+
+@media (max-width: 640px){
+    .flex-container{
+        display: flex;
+    }
+}
