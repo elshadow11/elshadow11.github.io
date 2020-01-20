@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(43, 34, 34);
     color: white;
 }
 .centrar{
@@ -29,7 +29,7 @@ a, p, div, span {
     transition: all .3s;
 }
 a:hover {
-    color: #f626fd;
+    color: rgb(184, 149, 149);
     -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), color-stop(50%, rgba(0,0,0,.3)), to(rgba(0,0,0,1)));
     
 }
